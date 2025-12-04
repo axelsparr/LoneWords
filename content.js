@@ -1,13 +1,56 @@
 // content.js
 
-// 1. Which replacements do we want? (example: English -> Japanese)
-const replacements = [
-  { from: "a", to: "$" },
-];
+// 1. Load CSV from the extension package
+const csvUrl = browser.runtime.getURL("wordlist.txt");
 
-// 1b. Minimum distance (in words) between replacements
+let replacements = [];
 const minWordsBetweenReplacements = 40;
 let wordsSinceLastReplacement = 0;
+
+fetch(csvUrl)
+  .then(response => response.text())
+  .then(text => {
+    const lines = text.trim().split("\n");
+    lines.shift(); // remove header
+
+    for (const line of lines) {
+      const [kanji, kana, english, cls] = line.split(";").map(s => s.trim());
+
+      replacements.push({
+        from: english,
+        to: { kanji, kana, class: cls }
+      });
+    }
+
+    console.log("Loaded replacements:", replacements);
+
+    // When replacements are ready, run on current page and start observer
+    startProcessing();
+  })
+  .catch(err => {
+    console.error("Failed to load words.csv:", err);
+  });
+
+// ------------ Processing logic below ------------
+
+function startProcessing() {
+  // Run once on initial page
+  walk(document.body);
+
+  // Also handle dynamically added content
+  const observer = new MutationObserver((mutations) => {
+    for (const m of mutations) {
+      for (const node of m.addedNodes) {
+        walk(node);
+      }
+    }
+  });
+
+  observer.observe(document.body, {
+    childList: true,
+    subtree: true
+  });
+}
 
 // 2. Helper: walk through all text nodes
 function walk(node) {
@@ -72,7 +115,8 @@ function findReplacement(word) {
   const lower = word.toLowerCase();
   for (const { from, to } of replacements) {
     if (lower === from.toLowerCase()) {
-      return to;
+      // for now just return kanji; you could combine kanji/kana/english here
+      return to.kana;
     }
   }
   return null;
@@ -85,20 +129,3 @@ function applyCase(original, replacement) {
   }
   return replacement;
 }
-
-// 5. Run once on initial page
-walk(document.body);
-
-// 6. Also observe dynamic changes (e.g. SPAs, infinite scroll)
-const observer = new MutationObserver((mutations) => {
-  for (const m of mutations) {
-    for (const node of m.addedNodes) {
-      walk(node);
-    }
-  }
-});
-
-observer.observe(document.body, {
-  childList: true,
-  subtree: true
-});
