@@ -1,0 +1,1559 @@
+kanji;kana;english;class
+凄い;すごい;great;Adjective
+凄い;すごい; incredible;Adjective
+親切;しんせつ;kind;Adjectival Noun
+親切;しんせつ; kindhearted;Adjectival Noun
+絶対;ぜったい;absolutely;Adverb
+絶対;ぜったい; never;Adverb
+先月;せんげつ;last month;Noun
+一昨年;おととし;the year before last (colloquial);Noun
+冬休み;ふゆやすみ;winter vacation;Noun
+夏休み;なつやすみ;summer vacation;Noun
+休日;きゅうじつ;day off;Noun
+休日;きゅうじつ; holiday;Noun
+正月;しょうがつ;New Year;Noun
+思い出;おもいで;memory;Noun
+たまに;たまに;occasionally;Adverb
+たまに;たまに; sometimes;Adverb
+おかしい;おかしい;strange;Adjective
+おかしい;おかしい; peculiar;Adjective
+浅い;あさい;shallow;Adjective
+浅い;あさい; superficial;Adjective
+君;きみ;you (referring to fellows or subordinates);Noun
+奥さん;おくさん;(someone else's) wife;Noun
+奥さん;おくさん; married woman;Noun
+赤ちゃん;あかちゃん;baby (colloquial);Noun
+小学生;しょうがくせい;elementary school student;Noun
+貸す;かす;lend;Verb
+貸す;かす; lease;Verb
+数える;かぞえる;count;Verb
+生む;うむ;give birth;Verb
+生む;うむ; produce;Verb
+育つ;そだつ;be brought up;Verb
+育つ;そだつ; grow;Verb
+是非;ぜひ;by all means;Adverb
+是非;ぜひ; please;Adverb
+黒;くろ;black color;Noun
+おもちゃ;おもちゃ;toy;Noun
+おもちゃ;おもちゃ; plaything;Noun
+靴;くつ;shoes;Noun
+連絡;れんらく;contact;Verbal Noun
+連絡;れんらく; communication;Verbal Noun
+伝言;でんごん;message (left by someone);Verbal Noun
+預ける;あずける;deposit;Verb
+預ける;あずける; leave (something) with (someone);Verb
+下がる;さがる;go down;Verb
+下がる;さがる; drop;Verb
+泳ぐ;およぐ;swim;Verb
+アルバイト;あるばいと;part-time job;Verbal Noun
+コート;こーと;coat;Noun
+コート;こーと; jacket (loan word);Noun
+趣味;しゅみ;hobby;Noun
+趣味;しゅみ; interest;Noun
+散歩;さんぽ;walk;Verbal Noun
+散歩;さんぽ; stroll;Verbal Noun
+幸せ;しあわせ;happiness;Adjectival Noun
+幸せ;しあわせ; satisfied (colloquial);Adjectival Noun
+安心;あんしん;peace of mind;Verbal Noun
+安心;あんしん; relief;Verbal Noun
+大勢;おおぜい;large numbers;Noun
+大勢;おおぜい; a lot of (people);Noun
+医者;いしゃ;doctor (colloquial;Noun
+医者;いしゃ; plain);Noun
+運転手;うんてんしゅ;driver;Noun
+新幹線;しんかんせん;bullet train;Noun
+往復;おうふく;round trip;Noun
+コピー;こぴー;copy;Verbal Noun
+コピー;こぴー; photocopy;Verbal Noun
+奥;おく;inner part;Noun
+奥;おく; the back;Noun
+重さ;おもさ;weight;Noun
+親しい;したしい;intimate;Adjective
+親しい;したしい; close;Adjective
+修理;しゅうり;repair;Verbal Noun
+修理;しゅうり; mending;Verbal Noun
+カード;かーど;card;Noun
+挨拶;あいさつ;greet;Verbal Noun
+挨拶;あいさつ; greeting;Verbal Noun
+階段;かいだん;steps;Noun
+階段;かいだん; flight of stairs;Noun
+配る;くばる;hand out;Verb
+配る;くばる; distribute;Verb
+断る;ことわる;refuse;Verb
+断る;ことわる; turn down;Verb
+グラム;ぐらむ;gram;Noun
+濃い;こい;strong;Adjective
+濃い;こい; concentrated;Adjective
+壊す;こわす;break (something);Verb
+壊す;こわす; destroy;Verb
+桜;さくら;cherry tree;Noun
+桜;さくら; cherry blossom;Noun
+仕方;しかた;way;Noun
+仕方;しかた; method;Noun
+絵;え;picture;Noun
+絵;え; painting;Noun
+気温;きおん;air temperature;Noun
+品物;しなもの;article;Noun
+品物;しなもの; goods;Noun
+吸う;すう;inhale;Verb
+吸う;すう; suck;Verb
+案内;あんない;guide;Verbal Noun
+案内;あんない; guidance;Verbal Noun
+スキー;すきー;ski;Noun
+スキー;すきー; skiing;Noun
+金持ち;かねもち;wealthy person;Noun
+尋ねる;たずねる;inquire;Verb
+尋ねる;たずねる; ask;Verb
+叩く;たたく;tap;Verb
+叩く;たたく; hit;Verb
+帰り;かえり;return;Noun
+帰り;かえり; going home;Noun
+卵;たまご;egg;Noun
+氷;こおり;ice;Noun
+留学生;りゅうがくせい;student studying abroad;Noun
+ソフト;そふと;software;Noun
+ソフト;そふと; program (for short);Noun
+歯医者;はいしゃ;dentist;Noun
+蹴る;ける;kick;Verb
+敷く;しく;lay;Verb
+敷く;しく; spread;Verb
+ひととき;ひととき;some moments;Noun
+ひととき;ひととき; a while;Noun
+交通事故;こうつうじこ;traffic accident;Noun
+遭う;あう;encounter;Verb
+遭う;あう; get caught in;Verb
+招待;しょうたい;invitation;Verbal Noun
+咲く;さく;bloom;Verb
+咲く;さく; blossom;Verb
+二十歳;はたち;20 years old;Noun
+銀;ぎん;silver;Noun
+内側;うちがわ;inside;Noun
+内側;うちがわ; interior;Noun
+池;いけ;pond;Noun
+石;いし;stone;Noun
+石;いし; small rock;Noun
+愛;あい;love;Verbal Noun
+課;か;section;Noun
+課;か; division;Noun
+大学院;だいがくいん;graduate school;Noun
+台所;だいどころ;kitchen;Noun
+カラー;からー;color (loan word);Noun
+すり;すり;pickpocket;Noun
+キャンプ;きゃんぷ;camping;Verbal Noun
+キャンプ;きゃんぷ; camp;Verbal Noun
+オートバイ;おーとばい;motorbike;Noun
+オートバイ;おーとばい; motorcycle;Noun
+建つ;たつ;be built;Verb
+建つ;たつ; be erected;Verb
+刺す;さす;sting;Verb
+刺す;さす; stab;Verb
+言い方;いいかた;way of speaking;Noun
+言い方;いいかた; expression;Noun
+沈む;しずむ;sink;Verb
+組み立てる;くみたてる;set up;Verb
+組み立てる;くみたてる; put together;Verb
+恐ろしい;おそろしい;terrible;Adjective
+恐ろしい;おそろしい; awful;Adjective
+外人;がいじん;foreigner;Noun
+外人;がいじん; alien;Noun
+牛;うし;cattle;Noun
+牛;うし; cow;Noun
+食堂;しょくどう;cafeteria;Noun
+食堂;しょくどう; canteen;Noun
+毎年;まいねん;every year (formal);Noun
+毎週;まいしゅう;every week;Noun
+何度;なんど;how many times;Interrogative
+何度;なんど; how many degrees;Interrogative
+なかなか;なかなか;not easily;Adverb
+なかなか;なかなか; not readily (in a negative sentence);Adverb
+さっき;さっき;earlier;Adverb
+さっき;さっき; only a moment ago;Adverb
+久しぶり;ひさしぶり;after a long time;Noun
+便利;べんり;convenience;Adjectival Noun
+迷惑;めいわく;trouble;Verbal Noun
+迷惑;めいわく; annoyance;Verbal Noun
+そんなに;そんなに;so much;Adverb
+びっくりする;びっくりする;be surprised;Verb
+びっくりする;びっくりする; be startled (casual);Verb
+足りる;たりる;suffice;Verb
+足りる;たりる; be enough;Verb
+疲れる;つかれる;get tired;Verb
+疲れる;つかれる; become fatigued;Verb
+ひどい;ひどい;cruel;Adjective
+ひどい;ひどい; awful;Adjective
+全然;ぜんぜん;(not ) at all;Adverb
+猫;ねこ;cat;Noun
+デパート;でぱーと;department store (loan word);Noun
+トイレ;といれ;rest room;Noun
+トイレ;といれ; lavatory (loan word);Noun
+地下鉄;ちかてつ;subway;Noun
+駐車場;ちゅうしゃじょう;parking area;Noun
+駐車場;ちゅうしゃじょう; parking lot;Noun
+ぶつかる;ぶつかる;hit;Verb
+ぶつかる;ぶつかる; bump into;Verb
+運賃;うんちん;(passenger) fare;Noun
+通学;つうがく;commuting to school;Verbal Noun
+見送る;みおくる;see (someone) off;Verb
+泣く;なく;cry;Verb
+泣く;なく; weep;Verb
+レストラン;れすとらん;restaurant;Noun
+メモ;めも;memo;Noun
+メモ;めも; note;Noun
+予約;よやく;reservation;Verbal Noun
+予約;よやく; appointment;Verbal Noun
+番号;ばんごう;assigned number;Noun
+注文;ちゅうもん;order;Verbal Noun
+パン;ぱん;bread;Noun
+ワイン;わいん;wine;Noun
+材料;ざいりょう;material;Noun
+材料;ざいりょう; ingredient;Noun
+豚肉;ぶたにく;pork;Noun
+焼く;やく;bake;Verb
+焼く;やく; grill;Verb
+匂い;におい;(pleasant) smell;Noun
+匂い;におい; odor;Noun
+付ける;つける;attach;Verb
+付ける;つける; apply;Verb
+付ける;つける; put;Verb
+痩せる;やせる;lose weight;Verb
+痩せる;やせる; become thin;Verb
+届ける;とどける;deliver;Verb
+間に合う;まにあう;be in time;Verb
+間に合う;まにあう; suffice;Verb
+向く;むく;turn;Verb
+向く;むく; face;Verb
+強さ;つよさ;strength;Noun
+得意;とくい;one's specialty;Adjectival Noun
+得意;とくい; be good at;Adjectival Noun
+塗る;ぬる;spread on;Verb
+塗る;ぬる; paint;Verb
+投げる;なげる;throw;Verb
+習う;ならう;learn;Verb
+習う;ならう; take lessons;Verb
+注目;ちゅうもく;attention;Verbal Noun
+注目;ちゅうもく; notice;Verbal Noun
+未来;みらい;future;Noun
+箱;はこ;box;Noun
+箱;はこ; case;Noun
+右手;みぎて;right hand;Noun
+右手;みぎて; the right hand side;Noun
+左手;ひだりて;left hand;Noun
+プール;ぷーる;pool;Noun
+ピアノ;ぴあの;piano;Noun
+光る;ひかる;shine;Verb
+光る;ひかる; emit light;Verb
+光る;ひかる; sparkle;Verb
+踏む;ふむ;step on;Verb
+踏む;ふむ; tread on;Verb
+別々;べつべつ;separately;Adjectival Noun
+ボール;ぼーる;ball;Noun
+握る;にぎる;grasp;Verb
+握る;にぎる; grip;Verb
+握る;にぎる; hold;Verb
+真っ赤;まっか;deep red;Adjectival Noun
+拾う;ひろう;pick up;Verb
+回す;まわす;turn;Verb
+回す;まわす; rotate (something);Verb
+ノート;のーと;notebook (loan word);Noun
+辞める;やめる;resign;Verb
+辞める;やめる; leave (one's job);Verb
+辞める;やめる; quit;Verb
+揺れる;ゆれる;shake;Verb
+揺れる;ゆれる; sway;Verb
+立派;りっぱ;fine;Adjectival Noun
+立派;りっぱ; elegant;Adjectival Noun
+立派;りっぱ; magnificent;Adjectival Noun
+練習;れんしゅう;practice;Verbal Noun
+練習;れんしゅう; training;Verbal Noun
+割る;わる;divide;Verb
+割る;わる; split;Verb
+割る;わる; break;Verb
+部分;ぶぶん;part;Noun
+部分;ぶぶん; section;Noun
+拭く;ふく;wipe;Verb
+拭く;ふく; dry;Verb
+招く;まねく;invite;Verb
+急;きゅう;urgent;Adjectival Noun
+急;きゅう; steep;Adjectival Noun
+汚れる;よごれる;become dirty;Verb
+渡る;わたる;cross;Verb
+渡る;わたる; go across;Verb
+途中;とちゅう;on the way;Noun
+途中;とちゅう; half way;Noun
+インタビュー;いんたびゅー;interview (loan word);Verbal Noun
+盗む;ぬすむ;steal;Verb
+盗む;ぬすむ; rob;Verb
+普段;ふだん;usual;Adverb
+普段;ふだん; ordinary;Adverb
+旅館;りょかん;Japanese inn;Noun
+博物館;はくぶつかん;museum;Noun
+ホーム;ほーむ;platform (for short);Noun
+引っ越す;ひっこす;move;Verb
+引っ越す;ひっこす; relocate;Verb
+荷物;にもつ;baggage;Noun
+荷物;にもつ; load;Noun
+家賃;やちん;rent for a place to live;Noun
+計画;けいかく;plan;Verbal Noun
+廊下;ろうか;hallway;Noun
+廊下;ろうか; corridor;Noun
+天井;てんじょう;ceiling;Noun
+ベッド;べっど;bed;Noun
+ソファー;そふぁー;sofa;Noun
+ソファー;そふぁー; couch;Noun
+屋根;やね;roof;Noun
+祭り;まつり;festival;Noun
+離婚;りこん;divorce;Verbal Noun
+葉;は;leaf;Noun
+ボート;ぼーと;light boat;Noun
+ボート;ぼーと; small craft;Noun
+燃える;もえる;burn;Verb
+燃える;もえる; catch on fire;Verb
+巻く;まく;roll up;Verb
+巻く;まく; wrap;Verb
+プラスチック;ぷらすちっく;plastic;Noun
+訪れる;おとずれる;go and visit (place);Verb
+破る;やぶる;tear;Verb
+破る;やぶる; breach;Verb
+関係;かんけい;relation;Verbal Noun
+関係;かんけい; relationship;Verbal Noun
+不幸;ふこう;unhappiness;Adjectival Noun
+不幸;ふこう; misfortune;Adjectival Noun
+録音;ろくおん;(sound) recording;Verbal Noun
+外国語;がいこくご;foreign language;Noun
+着物;きもの;traditional Japanese clothes;Noun
+牛乳;ぎゅうにゅう;milk;Noun
+救急車;きゅうきゅうしゃ;ambulance;Noun
+果物;くだもの;fruit;Noun
+間違い;まちがい;mistake;Noun
+間違い;まちがい; error;Noun
+映画館;えいがかん;movie theater;Noun
+怖い;こわい;scary;Adjective
+怖い;こわい; be afraid;Adjective
+鏡;かがみ;mirror;Noun
+草;くさ;grass;Noun
+草;くさ; weed;Noun
+敬語;けいご;polite speech;Noun
+欠席;けっせき;absence (from school;Verbal Noun
+欠席;けっせき; a gathering;Verbal Noun
+欠席;けっせき; etc.);Verbal Noun
+スイッチ;すいっち;switch;Noun
+掃除;そうじ;cleaning;Verbal Noun
+畳;たたみ;straw mat;Noun
+速さ;はやさ;speed;Noun
+林;はやし;woods;Noun
+林;はやし; forest;Noun
+プレゼント;ぷれぜんと;present (loan word);Verbal Noun
+弁当;べんとう;boxed lunch;Noun
+いつでも;いつでも;at all times;Adverb
+いつでも;いつでも; any time;Adverb
+寂しい;さびしい;lonely;Adjective
+寂しい;さびしい; desolate;Adjective
+少しも;すこしも;(not) in the least;Adverb
+尊敬;そんけい;respect;Verbal Noun
+尊敬;そんけい; esteem;Verbal Noun
+テニス;てにす;tennis;Verbal Noun
+広さ;ひろさ;area;Noun
+広さ;ひろさ; extent;Noun
+読み;よみ;reading;Noun
+我慢;がまん;patience;Verbal Noun
+我慢;がまん; endurance;Verbal Noun
+国籍;こくせき;nationality;Noun
+国籍;こくせき; citizenship;Noun
+恥ずかしい;はずかしい;embarrassed;Adjective
+恥ずかしい;はずかしい; ashamed;Adjective
+ボタン;ぼたん;button;Noun
+洋服;ようふく;(western-style) clothes;Noun
+油;あぶら;oil;Noun
+おかしい;おかしい;funny;Adjective
+おかしい;おかしい; comical;Adjective
+余る;あまる;remain;Verb
+余る;あまる; be in excess;Verb
+コート;こーと;sports court;Noun
+正直;しょうじき;honest;Adjectival Noun
+正直;しょうじき; upright;Adjectival Noun
+ドラマ;どらま;drama;Noun
+ビザ;びざ;visa;Noun
+水道;すいどう;water service;Noun
+水道;すいどう; channel;Noun
+店員;てんいん;clerk;Noun
+店員;てんいん; salesperson;Noun
+電池;でんち;battery;Noun
+ポケット;ぽけっと;pocket;Noun
+握手;あくしゅ;handshake;Verbal Noun
+そろそろ;そろそろ;soon;Adverb
+そろそろ;そろそろ; it's about time;Adverb
+ぶどう;ぶどう;grapes;Noun
+迷う;まよう;get lost;Verb
+見物;けんぶつ;sightseeing;Verbal Noun
+見物;けんぶつ; visit;Verbal Noun
+知らせる;しらせる;let know;Verb
+知らせる;しらせる; inform;Verb
+神社;じんじゃ;Shinto shrine;Noun
+注射;ちゅうしゃ;injection;Verbal Noun
+注射;ちゅうしゃ; shot;Verbal Noun
+めったに;めったに;rarely;Adverb
+めったに;めったに; seldom;Adverb
+作文;さくぶん;composition;Noun
+作文;さくぶん; essay;Noun
+鳴る;なる;sound;Verb
+鳴る;なる; ring;Verb
+真面目;まじめ;serious and sincere;Adjectival Noun
+申し込む;もうしこむ;apply;Verb
+申し込む;もうしこむ; sign up;Verb
+冷蔵庫;れいぞうこ;refrigerator;Noun
+気に入る;きにいる;like;Verb
+気に入る;きにいる; become fond of;Verb
+クリスマス;くりすます;Christmas;Noun
+ネクタイ;ねくたい;tie;Noun
+ネクタイ;ねくたい; necktie;Noun
+誕生日;たんじょうび;birthday;Noun
+独身;どくしん;single;Noun
+独身;どくしん; unmarried;Noun
+苦い;にがい;bitter;Adjective
+バイオリン;ばいおりん;violin;Noun
+バッグ;ばっぐ;bag;Noun
+今まで;いままで;until now;Adverb
+切符;きっぷ;ticket;Noun
+ゴム;ごむ;elastic;Noun
+ゴム;ごむ; rubber;Noun
+少々;しょうしょう;a little;Adverb
+少々;しょうしょう; a bit;Adverb
+随分;ずいぶん;extremely;Adverb
+随分;ずいぶん; considerably;Adverb
+引っ張る;ひっぱる;pull;Verb
+引っ張る;ひっぱる; drag;Verb
+焼ける;やける;burn;Verb
+焼ける;やける; cook;Verb
+鉛筆;えんぴつ;pencil;Noun
+会話;かいわ;conversation;Verbal Noun
+ギター;ぎたー;guitar;Noun
+茶;ちゃ;tea (plain form);Noun
+暑さ;あつさ;heat (of weather);Noun
+胃;い;stomach;Noun
+禁煙;きんえん;non-smoking;Verbal Noun
+丸い;まるい;round;Adjective
+写る;うつる;be taken ;Verb
+写る;うつる; come out (in photograph);Verb
+喫茶店;きっさてん;coffee shop;Noun
+喫茶店;きっさてん; café;Noun
+やっぱり;やっぱり;just as I thought;Adverb
+やっぱり;やっぱり; after all;Adverb
+週刊誌;しゅうかんし;weekly magazine;Noun
+棚;たな;shelf;Noun
+棚;たな; rack;Noun
+震える;ふるえる;tremble;Verb
+震える;ふるえる; shake;Verb
+磨く;みがく;polish;Verb
+磨く;みがく; grind;Verb
+磨く;みがく; brush;Verb
+カーテン;かーてん;curtain;Noun
+火事;かじ;fire;Noun
+火事;かじ; blaze;Noun
+ナイフ;ないふ;knife;Noun
+皆さん;みなさん;everybody;Noun
+皆さん;みなさん; everyone (polite);Noun
+受ける;うける;receive;Verb
+受ける;うける; take;Verb
+受ける;うける; undergo;Verb
+付く;つく;stick to;Verb
+付く;つく; cling to;Verb
+私;わたくし;I (formal);Noun
+結構;けっこう;quite;Adverb
+悪口;わるくち;slander;Noun
+悪口;わるくち; abuse;Noun
+広まる;ひろまる;spread;Verb
+広まる;ひろまる; get around;Verb
+内緒;ないしょ;secrecy;Noun
+内緒;ないしょ; privacy;Noun
+つぶる;つぶる;close (eyes);Verb
+用件;ようけん;matter;Noun
+用件;ようけん; things to be done;Noun
+ロマンチック;ろまんちっく;romantic;Adjective
+貯金;ちょきん;money saved up;Verbal Noun
+バイク;ばいく;motorcycle;Noun
+預かる;あずかる;take care of;Verb
+預かる;あずかる; keep;Verb
+オレンジ;おれんじ;orange;Noun
+噛む;かむ;bite;Verb
+噛む;かむ; chew;Verb
+きつい;きつい;tight;Adjective
+きつい;きつい; tough;Adjective
+越える;こえる;go over;Verb
+越える;こえる; go across;Verb
+小包;こづつみ;parcel;Noun
+小包;こづつみ; package;Noun
+新年;しんねん;new year;Noun
+配達;はいたつ;delivery;Verbal Noun
+動物園;どうぶつえん;zoo;Noun
+封筒;ふうとう;envelope;Noun
+危ない;あぶない;dangerous;Adjective
+テキスト;てきすと;text;Noun
+テキスト;てきすと; textbook;Noun
+ビニール;びにーる;plastic;Noun
+ビニール;びにーる; vinyl;Noun
+アルバム;あるばむ;album;Noun
+水泳;すいえい;swimming;Verbal Noun
+混む;こむ;be crowded;Verb
+混む;こむ; be congested;Verb
+スカート;すかーと;skirt;Noun
+取れる;とれる;come off;Verb
+取れる;とれる; be removed;Verb
+ペン;ぺん;pen;Noun
+物;もの;thing;Noun
+物;もの; object;Noun
+郵便;ゆうびん;mail service;Noun
+郵便;ゆうびん; postal mail;Noun
+割れる;われる;crack;Verb
+割れる;われる; split;Verb
+駅員;えきいん;station attendant;Noun
+おしゃべり;おしゃべり;talkative;Adjective
+おしゃべり;おしゃべり; chatty;Adjective
+緑色;みどりいろ;green color;Noun
+毎朝;まいあさ;every morning;Noun
+曲げる;まげる;bend (something);Verb
+きっと;きっと;surely;Adverb
+きっと;きっと; certainly;Adverb
+理科;りか;science (school subject);Noun
+下着;したぎ;underwear;Noun
+太る;ふとる;grow fat;Verb
+太る;ふとる; gain weight;Verb
+冷房;れいぼう;air conditioning (cooling);Verbal Noun
+別れる;わかれる;separate;Verb
+別れる;わかれる; part;Verb
+空く;あく;become available or vacant;Verb
+出掛ける;でかける;go out;Verb
+出掛ける;でかける; leave home;Verb
+毎晩;まいばん;every evening;Noun
+指輪;ゆびわ;ring;Noun
+腐る;くさる;rot;Verb
+腐る;くさる; go bad;Verb
+貧乏;びんぼう;poverty;Adjectival Noun
+貧乏;びんぼう; destitution;Adjectival Noun
+おしゃれ;おしゃれ;trendy;Verbal Noun
+おしゃれ;おしゃれ; fashionable;Verbal Noun
+休憩;きゅうけい;break;Verbal Noun
+休憩;きゅうけい; rest;Verbal Noun
+舌;した;tongue;Noun
+ジュース;じゅーす;juice;Noun
+ゼロ;ぜろ;zero;Noun
+ゼロ;ぜろ; none (loan word);Noun
+朝刊;ちょうかん;morning edition paper;Noun
+丁寧;ていねい;polite;Adjectival Noun
+丁寧;ていねい; careful;Adjectival Noun
+苦手;にがて;not good at;Adjectival Noun
+苦手;にがて; be bad at;Adjectival Noun
+日;ひ;(specific) day;Noun
+日;ひ; sun;Noun
+日;ひ; daytime;Noun
+引っ越し;ひっこし;moving (house);Verbal Noun
+歩道;ほどう;sidewalk;Noun
+歩道;ほどう; pavement;Noun
+折れる;おれる;break;Verb
+折れる;おれる; snap;Verb
+見送り;みおくり;send-off;Verbal Noun
+夕刊;ゆうかん;evening edition paper;Noun
+この間;このあいだ;the other day;Noun
+この間;このあいだ; not so long ago;Noun
+冷える;ひえる;cool down;Verb
+冷える;ひえる; get chilled;Verb
+ピンク;ぴんく;pink;Noun
+グラス;ぐらす;glass;Noun
+毛;け;hair;Noun
+毛;け; down;Noun
+黒板;こくばん;blackboard;Noun
+積もる;つもる;pile up;Verb
+半年;はんとし;half a year;Noun
+現在;げんざい;the present;Noun
+現在;げんざい; present time;Noun
+利用;りよう;utilization;Verbal Noun
+利用;りよう; usage;Verbal Noun
+方法;ほうほう;method;Noun
+方法;ほうほう; procedure;Noun
+中心;ちゅうしん;center (of a circle;Noun
+中心;ちゅうしん; etc.);Noun
+中心;ちゅうしん; core;Noun
+明らか;あきらか;clear;Adjectival Noun
+明らか;あきらか; obvious;Adjectival Noun
+社長;しゃちょう;president (of a company);Noun
+ほぼ;ほぼ;almost;Adverb
+ほぼ;ほぼ; nearly;Adverb
+商品;しょうひん;goods;Noun
+商品;しょうひん; commodities;Noun
+大型;おおがた;large;Noun
+大型;おおがた; large scale;Noun
+限る;かぎる;be limited to;Verb
+記録;きろく;record;Verbal Noun
+記録;きろく; documentation;Verbal Noun
+具体的;ぐたいてき;concrete;Adjectival Noun
+具体的;ぐたいてき; specific;Adjectival Noun
+効果;こうか;effect;Noun
+効果;こうか; result;Noun
+公開;こうかい;opening (to the public);Verbal Noun
+作品;さくひん;work of art;Noun
+作品;さくひん; creation;Noun
+迫る;せまる;close in on;Verb
+迫る;せまる; approach;Verb
+大会;たいかい;tournament;Noun
+大会;たいかい; event;Noun
+背景;はいけい;background;Noun
+背景;はいけい; backdrop;Noun
+文字;もじ;character;Noun
+文字;もじ; letter;Noun
+文字;もじ; writing;Noun
+規則;きそく;rule;Noun
+規則;きそく; regulation;Noun
+近所;きんじょ;neighborhood;Noun
+グラフ;ぐらふ;chart;Noun
+グラフ;ぐらふ; graph;Noun
+首都;しゅと;capital;Noun
+減らす;へらす;reduce (something);Verb
+隠れる;かくれる;hide;Verb
+美術館;びじゅつかん;art museum;Noun
+ばか;ばか;foolish;Adjectival Noun
+ばか;ばか; stupid;Adjectival Noun
+暇;ひま;free time;Noun
+暇;ひま; spare time;Noun
+絵葉書;えはがき;picture postcard;Noun
+あんなに;あんなに;that much;Adverb
+あんなに;あんなに; such;Adverb
+行き;いき;going;Noun
+行き;いき; outbound (flight;Noun
+行き;いき; train;Noun
+行き;いき; etc.);Noun
+通勤;つうきん;commute;Verbal Noun
+ちゃんと;ちゃんと;correctly;Adverb
+ちゃんと;ちゃんと; properly;Adverb
+のんびり;のんびり;in a relaxed manner;Adverb
+のんびり;のんびり; leisurely;Adverb
+緊張;きんちょう;tension;Verbal Noun
+緊張;きんちょう; strain;Verbal Noun
+気付く;きづく;notice;Verb
+気付く;きづく; realize;Verb
+物語;ものがたり;story;Noun
+物語;ものがたり; tale;Noun
+出口;でぐち;exit;Noun
+登る;のぼる;climb;Verb
+登る;のぼる; ascend;Verb
+真っ白;まっしろ;pure-white;Adjectival Noun
+下ろす;おろす;bring down;Verb
+下ろす;おろす; take down;Verb
+貸し出す;かしだす;lend;Verb
+貸し出す;かしだす; lend out;Verb
+サッカー;さっかー;soccer;Noun
+サッカー;さっかー; football;Noun
+暖房;だんぼう;heating;Verbal Noun
+手袋;てぶくろ;gloves;Noun
+留守;るす;not at home;Noun
+嘘;うそ;lie;Noun
+遠慮;えんりょ;restraint;Verbal Noun
+遠慮;えんりょ; hold back;Verbal Noun
+折る;おる;break (something);Verb
+折る;おる; fold (something);Verb
+スープ;すーぷ;soup;Noun
+バナナ;ばなな;banana;Noun
+可哀相;かわいそう;poor;Adjectival Noun
+可哀相;かわいそう; pitiful;Adjectival Noun
+パトカー;ぱとかー;police car;Noun
+ハンバーガー;はんばーがー;hamburger;Noun
+毛布;もうふ;blanket;Noun
+エスカレーター;えすかれーたー;escalator;Noun
+お嬢さん;おじょうさん;young lady;Noun
+お嬢さん;おじょうさん; daughter;Noun
+手帳;てちょう;pocket notebook;Noun
+タオル;たおる;towel;Noun
+売店;ばいてん;booth;Noun
+売店;ばいてん; shop;Noun
+パチンコ;ぱちんこ;pachinko (Japanese pinball);Noun
+謝る;あやまる;apologize;Verb
+ケーキ;けーき;cake;Noun
+天気予報;てんきよほう;weather forecast;Noun
+変;へん;strange;Adjectival Noun
+変;へん; weird;Adjectival Noun
+一生懸命;いっしょうけんめい;hard-working;Adjectival Noun
+一生懸命;いっしょうけんめい; doing one's best;Adjectival Noun
+間違う;まちがう;make a mistake;Verb
+間違う;まちがう; be wrong;Verb
+事務室;じむしつ;clerk's office;Noun
+事務室;じむしつ; office room;Noun
+スーツ;すーつ;suit;Noun
+チケット;ちけっと;ticket (loan word);Noun
+チョコレート;ちょこれーと;chocolate;Noun
+脱ぐ;ぬぐ;take off (clothes);Verb
+年賀状;ねんがじょう;New Year's card;Noun
+乗り物;のりもの;vehicle;Noun
+乗り物;のりもの; transportation;Noun
+布団;ふとん;Japanese-style padded mattress;Noun
+役に立つ;やくにたつ;be useful;Verb
+役に立つ;やくにたつ; be helpful;Verb
+破れる;やぶれる;be torn;Verb
+破れる;やぶれる; be ripped up;Verb
+用事;ようじ;errand;Noun
+用事;ようじ; business;Noun
+写す;うつす;copy;Verb
+写す;うつす; photograph;Verb
+腕時計;うでどけい;wrist watch;Noun
+贈り物;おくりもの;present;Noun
+贈り物;おくりもの; gift;Noun
+チャンネル;ちゃんねる;channel;Noun
+冷やす;ひやす;chill (something);Verb
+冷やす;ひやす; cool down;Verb
+片付ける;かたづける;put in order;Verb
+片付ける;かたづける; clean up;Verb
+乾杯;かんぱい;toast;Verbal Noun
+乾杯;かんぱい; drink (in celebration);Verbal Noun
+停車;ていしゃ;stop (of a train);Verbal Noun
+鳴く;なく;sing;Verb
+鳴く;なく; cry (of animals);Verb
+ガソリンスタンド;がそりんすたんど;gas station;Noun
+片道;かたみち;one way (trip);Noun
+交番;こうばん;police box;Noun
+大分;だいぶ;greatly;Adverb
+大分;だいぶ; fairly;Adverb
+大分;だいぶ; highly;Adverb
+デート;でーと;date;Verbal Noun
+デート;でーと; romantic meeting;Verbal Noun
+梅雨;つゆ;rainy season;Noun
+真っ直ぐ;まっすぐ;straight;Adverb
+レモン;れもん;lemon;Noun
+上着;うわぎ;outerwear;Noun
+上着;うわぎ; coat;Noun
+上着;うわぎ; jacket;Noun
+偉い;えらい;great;Adjective
+偉い;えらい; eminent;Adjective
+書き方;かきかた;how to write;Noun
+書き方;かきかた; way of writing;Noun
+炊く;たく;cook (rice);Verb
+チーズ;ちーず;cheese;Noun
+ドライブ;どらいぶ;drive (loan word);Verbal Noun
+踏切;ふみきり;railroad crossing;Noun
+ラケット;らけっと;racket;Noun
+受付;うけつけ;receptionist;Noun
+受付;うけつけ; information office;Noun
+怒る;おこる;get angry;Verb
+怒る;おこる; scold;Verb
+化粧;けしょう;makeup;Verbal Noun
+都合;つごう;convenience;Noun
+都合;つごう; availability;Noun
+ひげ;ひげ;beard;Noun
+ひげ;ひげ; moustache;Noun
+本棚;ほんだな;bookshelf;Noun
+本棚;ほんだな; bookcase;Noun
+真っ暗;まっくら;pitch-dark;Adjectival Noun
+沸く;わく;boil;Verb
+沸く;わく; get loud (crowd applause etc.);Verb
+売り切れる;うりきれる;sell out;Verb
+売り切れる;うりきれる; go out of stock;Verb
+押し入れ;おしいれ;sliding-door closet;Noun
+革;かわ;leather;Noun
+ぐっすり;ぐっすり;soundly;Adverb
+紅茶;こうちゃ;black tea;Noun
+邪魔;じゃま;disturbance;Adjectival Noun
+邪魔;じゃま; blocking;Adjectival Noun
+ソース;そーす;sauce;Noun
+足す;たす;add (things of the same kind);Verb
+トマト;とまと;tomato;Noun
+バター;ばたー;butter;Noun
+発車;はっしゃ;departure (of a vehicle);Verbal Noun
+バレーボール;ばれーぼーる;volleyball;Noun
+おかず;おかず;dishes to go with the rice;Noun
+カレンダー;かれんだー;calendar;Noun
+とにかく;とにかく;in any case;Adverb
+とにかく;とにかく; anyway;Adverb
+楽しみ;たのしみ;enjoyment;Noun
+楽しみ;たのしみ; something looked forward to;Noun
+おしゃべり;おしゃべり;chatter;Noun
+おしゃべり;おしゃべり; idle talk;Noun
+読書;どくしょ;reading books;Verbal Noun
+寒気;さむけ;chill;Noun
+夕焼け;ゆうやけ;sunset glow;Noun
+痛める;いためる;damage;Verb
+痛める;いためる; hurt;Verb
+くすぐったい;くすぐったい;ticklish;Adjective
+泥棒;どろぼう;thief;Verbal Noun
+泥棒;どろぼう; burglar;Verbal Noun
+襖;ふすま;paper sliding door;Noun
+美人;びじん;beautiful woman;Noun
+タイプライター;たいぷらいたー;typewriter;Noun
+再来年;さらいねん;the year after next;Noun
+冗談;じょうだん;joke;Noun
+近づく;ちかづく;approach;Verb
+近づく;ちかづく; come close;Verb
+電話帳;でんわちょう;telephone book;Noun
+ベル;べる;bell;Noun
+干す;ほす;hang (something) out to dry;Verb
+金額;きんがく;amount of money;Noun
+金額;きんがく; sum;Noun
+蚊;か;mosquito;Noun
+悲しむ;かなしむ;feel sad;Verb
+悲しむ;かなしむ; lament;Verb
+クーラー;くーらー;air conditioner (cooling);Noun
+失礼;しつれい;rudeness;Verbal Noun
+失礼;しつれい; to excuse oneself;Verbal Noun
+洗濯機;せんたくき;washing machine;Noun
+洗濯機;せんたくき; washer;Noun
+豆腐;とうふ;tofu;Noun
+昼寝;ひるね;nap;Verbal Noun
+不便;ふべん;inconvenient;Adjectival Noun
+ミルク;みるく;milk (loan word);Noun
+向こう側;むこうがわ;other side;Noun
+億;おく;hundred million;Noun
+お礼;おれい;thanks;Verbal Noun
+お礼;おれい; gratitude;Verbal Noun
+着せる;きせる;dress (someone);Verb
+サラダ;さらだ;salad;Noun
+代える;かえる;substitute for;Verb
+四角;しかく;square;Adjectival Noun
+急行;きゅうこう;express train;Noun
+交差点;こうさてん;crossing;Noun
+交差点;こうさてん; intersection;Noun
+覚める;さめる;awake;Verb
+覚める;さめる; wake up (naturally);Verb
+昼休み;ひるやすみ;lunch break;Noun
+ベルト;べると;belt;Noun
+真っ黒;まっくろ;black;Adjectival Noun
+真っ黒;まっくろ; jet-black;Adjectival Noun
+皆様;みなさま;everyone;Noun
+皆様;みなさま; ladies and gentlemen;Noun
+ラーメン;らーめん;ramen (Chinese noodles);Noun
+ライター;らいたー;lighter;Noun
+ワイシャツ;わいしゃつ;business shirt;Noun
+ワイシャツ;わいしゃつ; dress shirt;Noun
+転ぶ;ころぶ;fall down;Verb
+転ぶ;ころぶ; fall over;Verb
+シャワー;しゃわー;shower;Noun
+扇風機;せんぷうき;electric fan;Noun
+遅刻;ちこく;tardiness;Verbal Noun
+遅刻;ちこく; lateness;Verbal Noun
+釣る;つる;fish;Verb
+釣る;つる; catch;Verb
+うどん;うどん;Japanese wheat noodles;Noun
+仮名;かな;kana;Noun
+記念日;きねんび;memorial day;Noun
+記念日;きねんび; anniversary;Noun
+下り;くだり;going down;Noun
+下り;くだり; going away from a central place;Noun
+掲示板;けいじばん;notice board;Noun
+掲示板;けいじばん; bulletin board;Noun
+凍る;こおる;freeze;Verb
+ごみ;ごみ;trash;Noun
+スーパーマーケット;すーぱーまーけっと;supermarket;Noun
+ぶらぶら;ぶらぶら;aimlessly;Adverb
+ぶらぶら;ぶらぶら; idly;Adverb
+アナウンサー;あなうんさー;announcer;Noun
+自炊;じすい;cooking (for oneself);Verbal Noun
+止める;とめる;stop (something/someone);Verb
+年下;としした;younger;Noun
+年下;としした; junior;Noun
+治す;なおす;cure (something);Verb
+箸;はし;chopsticks;Noun
+花見;はなみ;flower viewing;Noun
+引き出し;ひきだし;drawer;Noun
+訳;やく;translation;Noun
+いかが;いかが;how (polite);Adverb
+交通費;こうつうひ;traveling expense;Noun
+交通費;こうつうひ; transportation fee;Noun
+ステレオ;すてれお;stereo;Noun
+再会;さいかい;meeting again;Verbal Noun
+再会;さいかい; reunion;Verbal Noun
+滑る;すべる;slide;Verb
+滑る;すべる; slip;Verb
+早口;はやくち;speaking fast;Noun
+裏返す;うらがえす;turn over;Verb
+裏返す;うらがえす; turn inside out;Verb
+角;かど;corner;Noun
+角;かど; edge;Noun
+きらきら;きらきら;sparkling;Adverb
+きらきら;きらきら; glittering;Adverb
+三角;さんかく;figure;Noun
+三角;さんかく; area etc. with three points or angles;Noun
+三角;さんかく; triangle;Noun
+激しい;はげしい;violent;Adjective
+激しい;はげしい; intense;Adjective
+経営;けいえい;management;Verbal Noun
+経営;けいえい; operation;Verbal Noun
+拡大;かくだい;magnification;Verbal Noun
+拡大;かくだい; enlargement;Verbal Noun
+姿勢;しせい;posture;Noun
+姿勢;しせい; position;Noun
+周辺;しゅうへん;area;Noun
+周辺;しゅうへん; region;Noun
+他;た;other (Chinese origin);Noun
+達する;たっする;attain;Verb
+達する;たっする; reach;Verb
+当時;とうじ;at that time;Noun
+当然;とうぜん;natural;Adjectival Noun
+当然;とうぜん; as a matter of course;Adjectival Noun
+能力;のうりょく;capability;Noun
+能力;のうりょく; capacity;Noun
+能力;のうりょく; ability;Noun
+判断;はんだん;judgment;Verbal Noun
+判断;はんだん; decision;Verbal Noun
+過ぎる;すぎる;pass by;Verb
+過ぎる;すぎる; go past;Verb
+正確;せいかく;accurate;Adjectival Noun
+正確;せいかく; precise;Adjectival Noun
+戦争;せんそう;war between countries;Verbal Noun
+放送;ほうそう;broadcasting;Verbal Noun
+習慣;しゅうかん;custom;Noun
+習慣;しゅうかん; habit;Noun
+フィルム;ふぃるむ;film;Noun
+受け付ける;うけつける;receive;Verb
+受け付ける;うけつける; accept;Verb
+ダンス;だんす;dance;Verbal Noun
+ダンス;だんす; dancing (loan word);Verbal Noun
+こんなに;こんなに;this much;Adverb
+こんなに;こんなに; such;Adverb
+吹く;ふく;blow;Verb
+吹く;ふく; play (a wind instrument);Verb
+まあ;まあ;well (interjection);Interjection
+メール;めーる;e-mail;Verbal Noun
+インターネット;いんたーねっと;Internet;Noun
+出身;しゅっしん;come from;Noun
+出身;しゅっしん; origin;Noun
+職業;しょくぎょう;occupation;Noun
+職業;しょくぎょう; job;Noun
+スター;すたー;star;Noun
+くだらない;くだらない;worthless;Adjective
+くだらない;くだらない; trifling;Adjective
+名簿;めいぼ;name list;Noun
+通常;つうじょう;common;Noun
+通常;つうじょう; usually;Noun
+通常;つうじょう; typically;Noun
+家内;かない;one's wife;Noun
+消防署;しょうぼうしょ;fire station;Noun
+再び;ふたたび;again;Adverb
+再び;ふたたび; a second time;Adverb
+大統領;だいとうりょう;president (of a country);Noun
+入場券;にゅうじょうけん;entrance ticket;Noun
+ネックレス;ねっくれす;necklace;Noun
+パジャマ;ぱじゃま;pajamas;Noun
+ボールペン;ぼーるぺん;ballpoint pen;Noun
+かゆい;かゆい;itchy;Adjective
+覚ます;さます;awaken;Verb
+覚ます;さます; wake up;Verb
+すいか;すいか;watermelon;Noun
+そば;そば;buckwheat noodles;Noun
+特急;とっきゅう;super-express;Noun
+特急;とっきゅう; limited express;Noun
+のり;のり;glue;Noun
+のり;のり; starch;Noun
+大抵;たいてい;generally;Adverb
+大抵;たいてい; mostly;Adverb
+バスケットボール;ばすけっとぼーる;basketball;Noun
+酔っ払う;よっぱらう;get drunk;Verb
+どきどき;どきどき;thumping;Adverb
+どきどき;どきどき; in a pounding manner;Adverb
+欲しがる;ほしがる;want;Verb
+欲しがる;ほしがる; desire (of the third person);Verb
+早起き;はやおき;getting up early;Verbal Noun
+味噌汁;みそしる;miso soup;Noun
+読み方;よみかた;how to read;Noun
+読み方;よみかた; way of reading;Noun
+入り口;いりぐち;entrance;Noun
+降ろす;おろす;unload;Verb
+降ろす;おろす; set down;Verb
+掛かる;かかる;hang;Verb
+サンドイッチ;さんどいっち;sandwich;Noun
+四角い;しかくい;square-shaped;Adjective
+突き当たる;つきあたる;run into;Verb
+突き当たる;つきあたる; come to the end (of a road);Verb
+乾かす;かわかす;dry (something);Verb
+定期券;ていきけん;commuter pass;Noun
+にこにこ;にこにこ;smilingly;Adverb
+にこにこ;にこにこ; keep smiling;Adverb
+下る;くだる;go down;Verb
+下る;くだる; go away from;Verb
+ウール;うーる;wool;Noun
+コーラ;こーら;cola;Noun
+コーラ;こーら; coke;Noun
+トイレットペーパー;といれっとぺーぱー;toilet paper;Noun
+乗り換え;のりかえ;transfer;Verbal Noun
+乗り換え;のりかえ; change (trains);Verbal Noun
+灰皿;はいざら;ashtray;Noun
+ハム;はむ;ham;Noun
+床;ゆか;floor;Noun
+ローマ字;ろーまじ;Roman alphabet;Noun
+いちご;いちご;strawberry;Noun
+カレーライス;かれーらいす;curry rice;Noun
+キャッシュカード;きゃっしゅかーど;cash card;Noun
+停留所;ていりゅうじょ;(bus) stop;Noun
+床屋;とこや;barber;Noun
+床屋;とこや; barbershop;Noun
+歯磨き;はみがき;brushing one's teeth;Noun
+夕飯;ゆうはん;evening meal;Noun
+夕飯;ゆうはん; dinner;Noun
+酔っ払い;よっぱらい;drunkard;Noun
+酔っ払い;よっぱらい; drunk;Noun
+例;れい;example;Noun
+お辞儀;おじぎ;bow;Verbal Noun
+横断歩道;おうだんほどう;pedestrian crossing;Noun
+横断歩道;おうだんほどう; crosswalk;Noun
+ぐらぐら;ぐらぐら;shaky;Adverb
+ぐらぐら;ぐらぐら; unstable;Adverb
+航空便;こうくうびん;airmail;Noun
+航空便;こうくうびん; airfreight;Noun
+ジャム;じゃむ;jam;Noun
+スリッパ;すりっぱ;slippers;Noun
+畳む;たたむ;fold;Verb
+畳む;たたむ; shut;Verb
+畳む;たたむ; close;Verb
+トランプ;とらんぷ;playing cards;Verbal Noun
+日陰;ひかげ;shade of the sun;Noun
+文房具;ぶんぼうぐ;stationery;Noun
+文房具;ぶんぼうぐ; writing materials;Noun
+免許証;めんきょしょう;license;Noun
+訳す;やくす;translate;Verb
+よろしい;よろしい;all right;Adjective
+両替;りょうがえ;money exchange;Verbal Noun
+片づく;かたづく;be put in order;Verb
+片づく;かたづく; be finished;Verb
+カップ;かっぷ;cup;Noun
+消しゴム;けしごむ;eraser;Noun
+スケート;すけーと;skate;Noun
+スケート;すけーと; skates;Noun
+鍋;なべ;pan;Noun
+寝坊;ねぼう;oversleeping;Verbal Noun
+鋏;はさみ;scissors;Noun
+真っ青;まっさお;deep-blue;Adjectival Noun
+真っ青;まっさお; pale;Adjectival Noun
+汚す;よごす;make (something) dirty;Verb
+忘れ物;わすれもの;something left behind;Noun
+忘れ物;わすれもの; lost item;Noun
+掛け算;かけざん;multiplication;Verbal Noun
+臭い;くさい;stinky;Adjective
+突き当たり;つきあたり;end of a street;Noun
+マフラー;まふらー;scarf;Noun
+マフラー;まふらー; muffler;Noun
+桃;もも;peach;Noun
+アクセサリー;あくせさりー;accessories;Noun
+アクセサリー;あくせさりー; jewelry;Noun
+あくび;あくび;yawn;Noun
+あめ;あめ;candy;Noun
+上り;のぼり;going up;Noun
+上り;のぼり; ascent;Noun
+なるべく;なるべく;as...as possible;Adverb
+なるべく;なるべく; if possible;Adverb
+じっと;じっと;without moving;Adverb
+じっと;じっと; still;Adverb
+食器;しょっき;tableware;Noun
+延ばす;のばす;extend;Verb
+延ばす;のばす; postpone;Verb
+薬局;やっきょく;drugstore;Noun
+薬局;やっきょく; pharmacy;Noun
+雄;おす;male (animal);Noun
+雌;めす;female (animal);Noun
+和風;わふう;Japanese-inspired;Noun
+和風;わふう; Japanese-style;Noun
+いびき;いびき;snoring;Noun
+ピクニック;ぴくにっく;picnic;Noun
+地域;ちいき;region;Noun
+地域;ちいき; area;Noun
+勘違い;かんちがい;misunderstanding;Verbal Noun
+勘違い;かんちがい; wrong idea or assumption;Verbal Noun
+重要;じゅうよう;important;Adjectival Noun
+重要;じゅうよう; essential;Adjectival Noun
+主人;しゅじん;one's husband;Noun
+主人;しゅじん; master;Noun
+お宅;おたく;(someone else's) home;Noun
+ハイキング;はいきんぐ;hiking;Verbal Noun
+畑;はたけ;field;Noun
+畑;はたけ; farm;Noun
+ボーイフレンド;ぼーいふれんど;boyfriend;Noun
+イヤリング;いやりんぐ;earrings;Noun
+ガールフレンド;がーるふれんど;girlfriend;Noun
+柔らか;やわらか;soft;Adjectival Noun
+柔らか;やわらか; gentle;Adjectival Noun
+納豆;なっとう;fermented soybeans;Noun
+別に;べつに;particularly;Adverb
+別に;べつに; not really;Adverb
+どうしても;どうしても;by any means;Adverb
+どうしても;どうしても; no matter how;Adverb
+父親;ちちおや;father;Noun
+父親;ちちおや; male parent;Noun
+誘う;さそう;invite;Verb
+誘う;さそう; ask out;Verb
+母親;ははおや;mother;Noun
+母親;ははおや; female parent;Noun
+昼前;ひるまえ;in the morning;Noun
+昼前;ひるまえ; before noon;Noun
+ふらふら;ふらふら;be dizzy;Adverb
+ふらふら;ふらふら; lightheaded;Adverb
+こぼす;こぼす;spill (something);Verb
+持ってくる;もってくる;bring;Verb
+振り向く;ふりむく;turn around;Verb
+振り向く;ふりむく; look back;Verb
+洗面所;せんめんじょ;washroom;Noun
+洗面所;せんめんじょ; bathroom;Noun
+外側;そとがわ;exterior;Noun
+外側;そとがわ; outside;Noun
+段々;だんだん;gradually;Adverb
+段々;だんだん; little by little;Adverb
+包む;つつむ;wrap;Verb
+包む;つつむ; pack;Verb
+無くなる;なくなる;go missing;Verb
+無くなる;なくなる; run out;Verb
+豚;ぶた;pig;Noun
+褒める;ほめる;praise;Verb
+褒める;ほめる; compliment;Verb
+沸かす;わかす;boil (water);Verb
+暖める;あたためる;warm (something) up;Verb
+換える;かえる;exchange;Verb
+換える;かえる; convert;Verb
+安っぽい;やすっぽい;cheap-looking;Adjective
+安っぽい;やすっぽい; tacky;Adjective
+ぎらぎら;ぎらぎら;glaring;Adverb
+ぎらぎら;ぎらぎら; blinding;Adverb
+何とか;なんとか;somehow or other;Adverb
+いよいよ;いよいよ;finally;Adverb
+いよいよ;いよいよ; any moment;Adverb
+がらがら;がらがら;not crowded;Adjectival Noun
+缶詰;かんづめ;canned food;Noun
+怪我;けが;injury;Verbal Noun
+寒さ;さむさ;coldness;Noun
+寒さ;さむさ; cold;Noun
+祝日;しゅくじつ;holiday;Noun
+すき焼き;すきやき;sukiyaki;Noun
+葉書;はがき;postcard;Noun
+掃く;はく;sweep;Verb
+何しろ;なにしろ;anyhow;Adverb
+何しろ;なにしろ; as you may know;Adverb
+どんどん;どんどん;quickly;Adverb
+どんどん;どんどん; rapidly;Adverb
+ぺこぺこ;ぺこぺこ;hungry;Adjectival Noun
+ぺこぺこ;ぺこぺこ; starving;Adjectival Noun
+ぺらぺら;ぺらぺら;fluently;Adjectival Noun
+ぺらぺら;ぺらぺら; in a chatty way;Adjectival Noun
+レインコート;れいんこーと;raincoat;Noun
+アイス;あいす;ice cream (for short);Noun
+塩辛い;しおからい;salty;Adjective
+セロテープ;せろてーぷ;scotch tape;Noun
+大幅;おおはば;drastically;Adjectival Noun
+大幅;おおはば; substantially;Adjectival Noun
+教育;きょういく;education;Verbal Noun
+工事;こうじ;construction;Verbal Noun
+工事;こうじ; repairing;Verbal Noun
+担当;たんとう;being in charge (of official duties);Verbal Noun
+法律;ほうりつ;law;Noun
+丸;まる;circle;Noun
+丸;まる; round;Noun
+発表;はっぴょう;announcement;Verbal Noun
+研究;けんきゅう;research;Verbal Noun
+研究;けんきゅう; study;Verbal Noun
+一方;いっぽう;one way;Adverb
+一方;いっぽう; the other party;Adverb
+国内;こくない;domestic;Noun
+国内;こくない; internal;Noun
+全体;ぜんたい;whole;Noun
+全体;ぜんたい; total;Noun
+後;のち;after;Noun
+後;のち; afterward (formal);Noun
+人間;にんげん;human being;Noun
+刺身;さしみ;sliced raw fish or meat;Noun
+ばら;ばら;rose;Noun
+ねずみ;ねずみ;rat;Noun
+ねずみ;ねずみ; mouse;Noun
+以下;いか;below;Noun
+昔;むかし;old times;Noun
+昔;むかし; the old days;Noun
+訳;わけ;reason;Noun
+訳;わけ; sense;Noun
+違い;ちがい;difference;Noun
+違い;ちがい; mistake;Noun
+しっかり;しっかり;mature;Adverb
+しっかり;しっかり; responsible;Adverb
+将来;しょうらい;future;Noun
+将来;しょうらい; in the future;Noun
+不思議;ふしぎ;mystery;Adjectival Noun
+不思議;ふしぎ; wonder;Adjectival Noun
+決して;けっして;never;Adverb
+決して;けっして; by no means;Adverb
+失敗;しっぱい;failure;Verbal Noun
+失敗;しっぱい; mistake;Verbal Noun
+番;ばん;one's turn;Noun
+番;ばん; watch;Noun
+出会う;であう;meet;Verb
+出会う;であう; encounter;Verb
+悩む;なやむ;be troubled;Verb
+悩む;なやむ; suffer;Verb
+汗;あせ;sweat;Noun
+すっかり;すっかり;all;Adverb
+すっかり;すっかり; completely;Adverb
+代わり;かわり;substitution;Noun
+代わり;かわり; alternative;Noun
+一言;ひとこと;single word;Noun
+一言;ひとこと; brief speech;Noun
+豊か;ゆたか;rich;Adjectival Noun
+豊か;ゆたか; ample;Adjectival Noun
+接続;せつぞく;connection;Verbal Noun
+接続;せつぞく; joining;Verbal Noun
+抱える;かかえる;hold in one's arms;Verb
+エンジン;えんじん;engine;Noun
+少女;しょうじょ;young girl;Noun
+無駄;むだ;pointless;Adjectival Noun
+無駄;むだ; waste;Adjectival Noun
+自動;じどう;automatic operation;Noun
+先輩;せんぱい;senior;Noun
+先輩;せんぱい; superior;Noun
+眺める;ながめる;look out;Verb
+眺める;ながめる; gaze;Verb
+書類;しょるい;documents;Noun
+書類;しょるい; papers;Noun
+年月;ねんげつ;years;Noun
+年月;ねんげつ; period of time;Noun
+燃やす;もやす;burn (something);Verb
+線路;せんろ;railway track;Noun
+線路;せんろ; line;Noun
+水着;みずぎ;bathing suit;Noun
+水着;みずぎ; swimsuit;Noun
+可愛らしい;かわいらしい;lovely;Adjective
+可愛らしい;かわいらしい; charming;Adjective
+仲良し;なかよし;good friend;Noun
+梅干し;うめぼし;pickled plum;Noun
+ドレス;どれす;formal dress;Noun
+尽くす;つくす;make utmost efforts;Verb
+尽くす;つくす; devote to;Verb
+地球;ちきゅう;the earth;Noun
+不親切;ふしんせつ;unkind;Adjectival Noun
+不親切;ふしんせつ; inconsiderate;Adjectival Noun
+からから;からから;very thirsty;Adjectival Noun
+からから;からから; very dry;Adjectival Noun
+本箱;ほんばこ;bookcase;Noun
+横書き;よこがき;horizontal writing;Noun
+そば屋;そばや;buckwheat noodle shop;Noun
+加工;かこう;processing;Verbal Noun
+加工;かこう; editing (a photo;Verbal Noun
+加工;かこう; etc.);Verbal Noun
+実験;じっけん;experiment;Verbal Noun
+愛する;あいする;love;Verb
+愛する;あいする; care for;Verb
+あんまり;あんまり;(not) that much;Adverb
+あんまり;あんまり; (not) so much;Adverb
+いきなり;いきなり;all of a sudden;Adverb
+いきなり;いきなり; abruptly;Adverb
+表;おもて;front;Noun
+表;おもて; outside;Noun
+汚れ;よごれ;dirt;Noun
+汚れ;よごれ; blot;Noun
+間;あいだ;interval;Noun
+間;あいだ; space between things;Noun
+紫;むらさき;purple;Noun
+灰色;はいいろ;ash color;Noun
+灰色;はいいろ; gray;Noun
+血;ち;blood (colloquial);Noun
+顎;あご;jaw;Noun
+顎;あご; chin;Noun
+始めに;はじめに;in the beginning;Adverb
+暖まる;あたたまる;get warm (air;Verb
+暖まる;あたたまる; atmosphere;Verb
+暖まる;あたたまる; etc.);Verb
+お世辞;おせじ;compliment;Noun
+お世辞;おせじ; flattery;Noun
+袋;ふくろ;bag;Noun
+袋;ふくろ; sack;Noun
+長袖;ながそで;long sleeves;Noun
+半袖;はんそで;short sleeves;Noun
+形;かたち;shape;Noun
+形;かたち; form;Noun
+景色;けしき;natural scenery or landscape;Noun
+ざあざあ;ざあざあ;pouring;Adverb
+再来月;さらいげつ;the month after next;Noun
+泊める;とめる;let (someone) stay over;Verb
+叱る;しかる;scold;Verb
+叱る;しかる; reprimand;Verb
+騒ぐ;さわぐ;make a noise;Verb
+騒ぐ;さわぐ; make a racket;Verb
+車道;しゃどう;road;Noun
+車道;しゃどう; roadway (for cars);Noun
+掃除機;そうじき;vacuum cleaner;Noun
+剃る;そる;shave;Verb
+貼る;はる;stick;Verb
+貼る;はる; paste;Verb
+貼る;はる; put;Verb
+台;だい;stand;Noun
+台;だい; table;Noun
+主に;おもに;mostly;Adverb
+主に;おもに; predominantly;Adverb
+倒す;たおす;knock down;Verb
+倒す;たおす; overthrow;Verb
+星;ほし;star;Noun
+星;ほし; planet;Noun
+長女;ちょうじょ;eldest daughter;Noun
+爪;つめ;nail;Noun
+爪;つめ; claw;Noun
+缶;かん;can;Noun
+缶;かん; tin;Noun
+とんとん;とんとん;tapping;Adverb
+とんとん;とんとん; patting;Adverb
+袖;そで;sleeve;Noun
+濡れる;ぬれる;get wet;Verb
+パーセント;ぱーせんと;percent;Noun
+上がる;あがる;go up;Verb
+上がる;あがる; increase (in quality or quantity);Verb
+拍手;はくしゅ;applause;Verbal Noun
+拍手;はくしゅ; clapping;Verbal Noun
+弾く;ひく;play (instruments);Verb
+ひも;ひも;laces;Noun
+ひも;ひも; string;Noun
+昼過ぎ;ひるすぎ;early afternoon;Noun
+船;ふね;ship;Noun
+船;ふね; vessel;Noun
+まく;まく;scatter;Verb
+まく;まく; sprinkle;Verb
+姪;めい;niece;Noun
+個人;こじん;individual person;Noun
+歌手;かしゅ;singer;Noun
+社員;しゃいん;staff member;Noun
+社員;しゃいん; employee;Noun
+不動産屋;ふどうさんや;real estate agent;Noun
+最大;さいだい;biggest;Noun
+最大;さいだい; largest;Noun
+動き;うごき;movement;Noun
+動き;うごき; motion;Noun
+事件;じけん;affair;Noun
+事件;じけん; incident;Noun
+過去;かこ;the past;Noun
+協力;きょうりょく;cooperation;Verbal Noun
+協力;きょうりょく; collaboration;Verbal Noun
+時期;じき;time;Noun
+時期;じき; season;Noun
+経つ;たつ;pass;Verb
+経つ;たつ; elapse;Verb
+雷;かみなり;thunder;Noun
+雷;かみなり; lightning;Noun
+責任;せきにん;responsibility;Noun
+願う;ねがう;wish;Verb
+願う;ねがう; desire;Verb
+発見;はっけん;discovery;Verbal Noun
+発見;はっけん; revelation;Verbal Noun
+気;き;spirit;Noun
+気;き; temperament;Noun
+美容院;びよういん;hair salon;Noun
+状況;じょうきょう;situation;Noun
+状況;じょうきょう; surrounding conditions;Noun
+目的;もくてき;objective;Noun
+目的;もくてき; purpose;Noun
+企業;きぎょう;corporation;Noun
+企業;きぎょう; business;Noun
+釣り;つり;fishing;Noun
+漫画;まんが;comics;Noun
+漫画;まんが; cartoon;Noun
+温泉;おんせん;hot spring;Noun
+トレーニング;とれーにんぐ;training;Verbal Noun
+トレーニング;とれーにんぐ; workout;Verbal Noun
+噂;うわさ;gossip;Verbal Noun
+噂;うわさ; rumor;Verbal Noun
+本物;ほんもの;real;Noun
+本物;ほんもの; truly worthy (things;Noun
+本物;ほんもの; people);Noun
+アイデア;あいであ;idea (loan word);Noun
+地下;ちか;underground;Noun
+地下;ちか; basement;Noun
+マーケット;まーけっと;market;Noun
+スケジュール;すけじゅーる;schedule (loan word);Noun
+出張;しゅっちょう;business trip;Verbal Noun
+コック;こっく;cook;Noun
+コック;こっく; chef;Noun
+正午;しょうご;noon;Noun
+ブラシ;ぶらし;brush;Noun
+書き取る;かきとる;write down;Verb
+書き取る;かきとる; note down;Verb
+歓迎;かんげい;welcome;Verbal Noun
+歓迎;かんげい; greet;Verbal Noun
+開発;かいはつ;development;Verbal Noun
+郵便屋さん;ゆうびんやさん;mail carrier;Noun
+会長;かいちょう;president;Noun
+会長;かいちょう; chairperson;Noun
+金;きん;gold;Noun
+灰;はい;ashes;Noun
+骨;ほね;bone;Noun
+風呂屋;ふろや;bathhouse;Noun
+風呂屋;ふろや; public bath;Noun
+細か;こまか;small;Adjectival Noun
+細か;こまか; fine;Adjectival Noun
+細か;こまか; detailed;Adjectival Noun
+行き;ゆき;going;Noun
+行き;ゆき; bound for (traditional reading);Noun
+人々;ひとびと;people;Noun
+寺;てら;temple;Noun
+鶏;にわとり;rooster;Noun
+鶏;にわとり; hen;Noun
+港;みなと;port;Noun
+港;みなと; harbor;Noun
+移る;うつる;move to;Verb
+移る;うつる; transfer to;Verb
+異なる;ことなる;differ;Verb
+提供;ていきょう;offer;Verbal Noun
+提供;ていきょう; provide;Verbal Noun
+市民;しみん;citizen;Noun
+患者;かんじゃ;patient;Noun
+元旦;がんたん;morning of the January 1st;Noun
+元旦;がんたん; New Year's Day;Noun
+柔らかい;やわらかい;soft;Adjective
+柔らかい;やわらかい; gentle;Adjective
+似合う;にあう;suit;Verb
+似合う;にあう; match well;Verb
+確かめる;たしかめる;check;Verb
+確かめる;たしかめる; confirm;Verb
+背中;せなか;(one's) back;Noun
+肌;はだ;human skin;Noun
+肌;はだ; surface;Noun
+順番;じゅんばん;order;Noun
+順番;じゅんばん; turn;Noun
+まとも;まとも;sane;Adjectival Noun
+まとも;まとも; reasonable;Adjectival Noun
+ぴったり;ぴったり;exactly right;Adjectival Noun
+ぴったり;ぴったり; perfect;Adjectival Noun
+思わず;おもわず;unintentionally;Adverb
+思わず;おもわず; unconsciously;Adverb
+思わず;おもわず; spontaneously;Adverb
+より;より;even more ~;Adverb
+より;より; even less ~;Adverb
+もったいない;もったいない;wasteful;Adjective
+もったいない;もったいない; a shame;Adjective
+情報;じょうほう;information;Noun
+諦める;あきらめる;abandon;Verb
+諦める;あきらめる; give up;Verb
+懐かしい;なつかしい;fondly-remembered;Adjective
+懐かしい;なつかしい; long-forgotten;Adjective
+怪しい;あやしい;suspicious;Adjective
+怪しい;あやしい; dubious;Adjective
+示す;しめす;show;Verb
+示す;しめす; indicate;Verb
+たっぷり;たっぷり;fully;Adverb
+たっぷり;たっぷり; amply;Adverb
+早速;さっそく;immediately;Adverb
+早速;さっそく; right away;Adverb
+偶然;ぐうぜん;by chance;Adjectival Noun
+偶然;ぐうぜん; coincidence;Adjectival Noun
+続き;つづき;continuation;Noun
+続き;つづき; sequel;Noun
+合計;ごうけい;sum;Verbal Noun
+合計;ごうけい; total;Verbal Noun
+傷;きず;wound;Noun
+傷;きず; scar;Noun
+面倒;めんどう;troublesome;Adjectival Noun
+面倒;めんどう; difficult;Adjectival Noun
+具合;ぐあい;condition;Noun
+具合;ぐあい; health;Noun
+中止;ちゅうし;suspension;Verbal Noun
+中止;ちゅうし; cancellation;Verbal Noun
+手続き;てつづき;procedure;Verbal Noun
+手続き;てつづき; proceeding;Verbal Noun
+結果;けっか;result;Noun
+結果;けっか; outcome;Noun
+建設;けんせつ;construction;Verbal Noun
+販売;はんばい;sale;Verbal Noun
+販売;はんばい; selling;Verbal Noun
+機能;きのう;function;Verbal Noun
+機能;きのう; feature;Verbal Noun
+頃;ころ;time;Noun
+頃;ころ; the time when ~;Noun
+日中;にっちゅう;during the day;Noun
+今後;こんご;in the future;Noun
+今後;こんご; from now on;Noun
+影響;えいきょう;influence;Verbal Noun
+影響;えいきょう; effect;Verbal Noun
+分野;ぶんや;field;Noun
+分野;ぶんや; area;Noun
+関する;かんする;relate to;Verb
+関する;かんする; regarding;Verb
+状態;じょうたい;state;Noun
+状態;じょうたい; condition;Noun
+価格;かかく;price;Noun
+価格;かかく; value;Noun
+姿;すがた;figure;Noun
+姿;すがた; appearance;Noun
+期待;きたい;expectation;Verbal Noun
+期待;きたい; anticipation;Verbal Noun
+除く;のぞく;remove;Verb
+除く;のぞく; exclude;Verb
+一般;いっぱん;general;Noun
+一般;いっぱん; common;Noun
+表現;ひょうげん;expression;Verbal Noun
+完成;かんせい;completion;Verbal Noun
+完成;かんせい; finish making or building something;Verbal Noun
+変化;へんか;change;Verbal Noun
+変化;へんか; alteration;Verbal Noun
+参加;さんか;participation;Verbal Noun
+土地;とち;land;Noun
+検討;けんとう;examination and consideration;Verbal Noun
+開始;かいし;beginning;Verbal Noun
+備える;そなえる;provide for;Verb
+備える;そなえる; prepare for;Verb
+内容;ないよう;content;Noun
+与える;あたえる;give (formal);Verb
+広がる;ひろがる;spread out;Verb
+広がる;ひろがる; extend;Verb
+事実;じじつ;fact;Noun
+事実;じじつ; truth;Noun
+決定;けってい;decision;Verbal Noun
+住宅;じゅうたく;housing;Noun
+住宅;じゅうたく; residence;Noun
+代表;だいひょう;representative;Verbal Noun
+命令;めいれい;command;Verbal Noun
+命令;めいれい; order;Verbal Noun
+立場;たちば;standpoint;Noun
+立場;たちば; position;Noun
+なお;なお;still;Adverb
+なお;なお; in addition;Adverb
+計算;けいさん;calculation;Verbal Noun
+可能;かのう;possible;Adjectival Noun
+可能;かのう; potential;Adjectival Noun
+報告;ほうこく;report;Verbal Noun
+都市;とし;city;Noun
+都市;とし; urban city;Noun
+政治;せいじ;politics;Noun
+競争;きょうそう;competition;Verbal Noun
+原因;げんいん;cause;Noun
+原因;げんいん; origin;Noun
+活動;かつどう;activity;Verbal Noun
+歴史;れきし;history;Noun
+表;ひょう;table;Noun
+表;ひょう; list;Noun
+サイト;さいと;website;Noun
+土産;みやげ;souvenir (plain);Noun
+臭い;におい;(bad) smell;Noun
+現金;げんきん;cash;Noun
+虫;むし;insect;Noun
+虫;むし; bug;Noun
+寄る;よる;stop by;Verb
+寄る;よる; stop off;Verb
+田舎;いなか;hometown;Noun
+田舎;いなか; countryside;Noun
+帰宅;きたく;return home;Verbal Noun
+帰宅;きたく; come home;Verbal Noun
+重大;じゅうだい;important;Adjectival Noun
+重大;じゅうだい; serious;Adjectival Noun
+マイナス;まいなす;minus;Verbal Noun
+マイナス;まいなす; below zero;Verbal Noun
+稼ぐ;かせぐ;earn;Verb
+稼ぐ;かせぐ; make money;Verb
+左右;さゆう;left and right;Noun
+痛み;いたみ;pain;Noun
+痛み;いたみ; ache;Noun
+誤解;ごかい;misunderstanding;Verbal Noun
+文句;もんく;complaint;Noun
+文句;もんく; grumble;Noun
+欧米;おうべい;Europe and America;Noun
+面接;めんせつ;interview;Verbal Noun
+サイン;さいん;signature;Verbal Noun
+サイン;さいん; autograph;Verbal Noun
+年中;ねんじゅう;all year;Adverb
+機嫌;きげん;mood;Noun
+機嫌;きげん; health;Noun
+居間;いま;living room;Noun
+度々;たびたび;often;Adverb
+例文;れいぶん;example sentence;Noun
+怠ける;なまける;be lazy;Verb
+怠ける;なまける; slack off;Verb
+転勤;てんきん;change of job location;Verbal Noun
+転勤;てんきん; relocation;Verbal Noun
+政府;せいふ;government;Noun
+政府;せいふ; administration;Noun
+所有;しょゆう;ownership;Verbal Noun
+所有;しょゆう; own;Verbal Noun
+いずれ;いずれ;sometime later;Adverb
+いずれ;いずれ; eventually;Adverb
+対する;たいする;face;Verb
+対する;たいする; be in response to;Verb
+教会;きょうかい;church;Noun
